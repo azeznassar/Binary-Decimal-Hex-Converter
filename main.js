@@ -193,3 +193,5 @@ function hexToDec(src) {
 
     return answer;
 }
+
+//TODO: Form validation
